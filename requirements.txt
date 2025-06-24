@@ -1,0 +1,9 @@
+transformers==4.41.1
+datasets
+peft==0.10.0
+accelerate
+bitsandbytes
+torch
+scikit-learn
+evaluate
+tqdm
