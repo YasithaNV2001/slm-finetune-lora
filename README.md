@@ -5,7 +5,7 @@ This project demonstrates how to fine-tune a **Small Language Model (SLM)** usin
 ---
 
 ## 📦 Project Structure
-
+```bash
 slm-finetune-lora/
 │
 ├── app.py # Gradio UI app for inference
@@ -18,7 +18,7 @@ slm-finetune-lora/
 ├── README.md # This file
 └── .gitignore
 
-
+```
 ---
 
 ## 🔧 Setup Instructions
